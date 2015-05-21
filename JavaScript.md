@@ -1,0 +1,7 @@
+# WTF #
+
+http://wikipedia.org/wiki/JavaScript
+JavaScript is easiest scripting language. rjNT uses JintEngine open-source javaScript compiler (JIT) allows you to run your own javaScript macros.
+
+
+Tutorial about how to write your own rj95 scripts coming soon.
